@@ -19,3 +19,11 @@ I would value your help with this!
 The Windows tutorial looks great! I've made a few edits to it, and to `README.md` (giving Grok credit).
 
 Let's do the MacOS one now! Thanks for this!
+
+---
+
+Okay… quick work of that! The MacOS tutorial looks good. This will do for now. If I need to add screenshots, I can easily do that later. You've done the hard work of laying out the detailed steps, patiently.
+
+Everything is checked in, and if I need to return to this, I'll do so in a new conversation, linking the [repository](https://github.com/Eumaeus/GreekTypingTutorials) and this chat: <https://x.com/i/grok/share/87cf46add1d640679e73bb4f1817703e>. 
+
+A million thanks!
