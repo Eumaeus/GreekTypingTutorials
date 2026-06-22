@@ -13,3 +13,9 @@ I have started a GitHub repository for this little project here: <https://github
 The directory `ai_queries` will hold a record of our conversations as we proceed, to preserve context. I don't anticipate that this will take too long, but this practice has worked well for me with other projects.
 
 I would value your help with this!
+
+---
+
+The Windows tutorial looks great! I've made a few edits to it, and to `README.md` (giving Grok credit).
+
+Let's do the MacOS one now! Thanks for this!
